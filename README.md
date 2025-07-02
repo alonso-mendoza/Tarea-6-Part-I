@@ -1,2 +1,2 @@
 # Tarea-6-Part-I
-Repo for Part II of (Tarea 6)[https://alonso-mendoza.github.io/Tarea-6-Part-I/] in 1IAS21
+Repo for Part II of [Tarea 6](https://alonso-mendoza.github.io/Tarea-6-Part-I/) in 1IAS21
